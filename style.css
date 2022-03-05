@@ -16,3 +16,7 @@ font-family: 'Poppins', sans-serif;
 .navigation{
     height: 80px;
 }
+
+.banner{
+    height: calc(100vh -80px);
+}
